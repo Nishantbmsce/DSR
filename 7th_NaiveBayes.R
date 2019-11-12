@@ -1,4 +1,4 @@
-#--NAVAZ_PASHA_1BM16CS054
+
 # Libraries
 library(naivebayes)
 library(dplyr)
