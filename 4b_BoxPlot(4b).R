@@ -1,4 +1,4 @@
-#--NAVAZ_PASHA_1BM16CS054
+
 library(ggplot2)
 library(gcookbook)
 cabbage_exp
